@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="75bc03a9-a7ab-4c30-88c7-b6a7cd17d961" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="printScope" value="1" />
+    <option name="OPEN_IN_BROWSER" value="true" />
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../untitled4\exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kRtoP4UMpSJvumkMSfzG9qi4Lz" />
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Christopher\PycharmProjects\untitled4" />
+      <recent name="C:\Users\Christopher\Documents\Projects" />
+      <recent name="C:\Users\Christopher\Documents\Projects\Projects1.2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Christopher\PycharmProjects\untitled4" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75bc03a9-a7ab-4c30-88c7-b6a7cd17d961" name="Default Changelist" comment="" />
+      <created>1605675405067</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605675405067</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="704" y="215" key="#Images" timestamp="1605813710075">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="704" y="215" key="#Images/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1605813710075" />
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605676420857">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1366.304.1366.728@0.0.1920.1040" timestamp="1605676420857" />
+    <state x="675" y="415" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605846481466">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="675" y="415" key="#com.intellij.fileTypes.FileTypeChooser/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1605846481466" />
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1605847986247">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="261" key="FileChooserDialogImpl/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1605847986247" />
+    <state x="922" y="164" key="SettingsEditor" timestamp="1605681194133">
+      <screen x="0" y="0" width="3840" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/-1366.304.1366.728@0.0.1920.1040" timestamp="1605681143910" />
+    <state x="922" y="164" key="SettingsEditor/0.0.3840.1040@0.0.3840.1040" timestamp="1605681194133" />
+    <state x="0" y="109" width="1635" height="1019" key="dock-window-1" timestamp="1605809166904">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="109" width="1635" height="1019" key="dock-window-1/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1605809166904" />
+    <state x="667" y="119" width="585" height="801" key="find.popup" timestamp="1605847987947">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="119" width="585" height="801" key="find.popup/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1605847987947" />
+    <state x="733" y="393" width="621" height="284" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1605812604267">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="733" y="393" width="621" height="284" key="org.intellij.images.editor.actions.BackgroundImageDialog/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1605812604267" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1605819151371">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1605819151371" />
+  </component>
+</project>
